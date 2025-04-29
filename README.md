@@ -46,7 +46,7 @@
 
 <p align="center">
   <img src="/images/image.jpg" width="250" alt="Coder" />
-  <img src="/images/image2.jpg" width="250" alt="Coder" />
+  <img src="/images/image2.jpeg" width="250" alt="Coder" />
 </p>
 
 ---
