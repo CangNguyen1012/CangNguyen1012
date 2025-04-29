@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img src="https://your-logo-url.com/logo.png" width="100" alt="logo" />
+  <img src="/images/code coffee.png" width="100" alt="logo" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nguyen Ba Cang, you can call me Henry</h1>
@@ -38,14 +38,14 @@
 
 ### 🌐 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/HenryNguyen0203/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/HenryNguyen0203/)
 
 ---
 
 ### 🐶 Aesthetic Bonus
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw0B85YXxo9ftz6j-HB46Ivv&ust=1746005235671000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjY2cH2_IwDFQAAAAAdAAAAABAE" width="250" alt="Coder" />
+  <img src="/images/image.jpg" width="250" alt="Coder" />
 </p>
 
 ---
