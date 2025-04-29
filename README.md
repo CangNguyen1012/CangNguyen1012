@@ -31,7 +31,7 @@
 ### 🔧 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,nestjs,docker,postgresql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,nestjs,docker,postgresql,mongodb,git,github,vscode,nextjs,threejs" />
 </p>
 
 ---
