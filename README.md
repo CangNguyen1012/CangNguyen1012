@@ -21,9 +21,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CangNguyen1012&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CangNguyen1012&theme=radical" alt="GitHub Streak" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CangNguyen1012&layout=compact&theme=radical" alt="Top Languages" width="450"/>
 </p>
 
 ---
@@ -46,6 +46,7 @@
 
 <p align="center">
   <img src="/images/image.jpg" width="250" alt="Coder" />
+  <img src="/images/image2.jpg" width="250" alt="Coder" />
 </p>
 
 ---
