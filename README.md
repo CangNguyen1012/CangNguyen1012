@@ -4,17 +4,16 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nguyen Ba Cang, you can call me Henry</h1>
-<h3 align="center">A mid-level Web Developer from Vietnam 🇻🇳</h3>
+<h3 align="center">A newbie QC tester from Vietnam 🇻🇳</h3>
 
 ---
 
 ### 🌱 About Me
 
-- 🔭 I’m currently working on **NestJS projects**
-- 🌱 I’m currently learning **NextJS, TypeScript, and DevOps basics**
-- 💬 Ask me about **ReactJS, NodeJS, or anything frontend/backend**
+- 🔭 I’m currently working on **Selenium Java projects**
+- 🌱 I’m currently learning **Java, Selenium, WebDriver and some tester skill**
 - 📫 How to reach me: **[bacangnguyen1012@gmail.com](mailto:bacangnguyen1012@gmail.com)**
-- ⚡ Fun fact: I love doing anything when I'm bored like making drinks (coffee, latte, tea,... ) and playing video games
+- ⚡ Fun fact: I love doing anything when I'm bored like making drinks (coffee, latte, tea,... ), taking some scenery pics and playing video games
 
 ---
 
@@ -31,7 +30,7 @@
 ### 🔧 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,nestjs,docker,postgresql,mongodb,git,github,vscode,nextjs,threejs" />
+  <img src="https://skillicons.dev/icons?i=java,selenium,appium,playwright" />
 </p>
 
 ---
