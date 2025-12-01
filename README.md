@@ -20,24 +20,36 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CangNguyen1012&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CangNguyen1012&theme=radical" alt="GitHub Streak" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CangNguyen1012&layout=compact&theme=radical" alt="Top Languages" width="450"/>
 </p>
 
 ---
 
 ### 🔧 Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,selenium,appium,playwright" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,git,postman" />
+</p>
+
+### 🧪 Testing Frameworks & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/HenryNguyen0203/)
+<p align="center">
+  <a href="https://www.facebook.com/HenryNguyen0203/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
 ---
 
