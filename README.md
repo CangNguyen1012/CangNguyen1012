@@ -10,8 +10,8 @@
 
 ### 🌱 About Me
 
-- 🔭 I’m currently working on **Selenium Java projects**
-- 🌱 I’m currently learning **Java, Selenium, WebDriver and some tester skill**
+- 🔭 I’m currently working on **Playwright Typescript projects**
+- 🌱 I’m currently learning **Typescript, Playwright, WebDriver and some tester skill**
 - 📫 How to reach me: **[bacangnguyen1012@gmail.com](mailto:bacangnguyen1012@gmail.com)**
 - ⚡ Fun fact: I love doing anything when I'm bored like making drinks (coffee, latte, tea,... ), taking some scenery pics and playing video games
 
@@ -28,7 +28,7 @@
 ### 🔧 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,postman" />
+  <img src="https://skillicons.dev/icons?i=java,git,postman,typescript" />
 </p>
 
 ### 🧪 Testing Frameworks & Platforms
